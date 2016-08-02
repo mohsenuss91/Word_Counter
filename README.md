@@ -20,3 +20,5 @@ python app.py
 The go to [http://localhost:5000/](http://localhost:5000/)
 
 ###To to
+
+Before starting please check out [git flow branching model](http://nvie.com/files/Git-branching-model.pdf)
